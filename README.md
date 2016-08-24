@@ -1,7 +1,7 @@
 # Excercises1
 Grupo 1:
 -Carlos joan Rodriguez Rodriguez
--Saul....
+-Saul Pardo
 -
 
 grupo 2:
