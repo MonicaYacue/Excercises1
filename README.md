@@ -18,3 +18,5 @@ Grupo 4:
 -Jarit Lizeth Rivera Vargas
 -Wilmar Oswaldo Rodriguez Diaz
 -
+grupo 5:
+-Bladimir Laguna Montaña
