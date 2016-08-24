@@ -12,4 +12,4 @@ grupo 2:
 Grupo 3:
 -Yeison Camilo Giraldo Garcia
 -Bleimer David Julio Herrera
-Bryan Alexis Escobar Gomez
+-Bryan Alexis Escobar Gomez
