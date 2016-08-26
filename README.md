@@ -24,6 +24,6 @@ grupo 5:
 Grupo 6:
 -Edward Camilo Gonzalez Arango
 -Kevin Leandro Moscoso Morales
--Juan David Gutierrez Rodriguez
+-Juan David Gutiérrez Rodríguez
 
 
