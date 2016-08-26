@@ -20,3 +20,10 @@ Grupo 4:
 -
 grupo 5:
 -Bladimir Laguna Montaña
+
+Grupo 6:
+-Edward Camilo Gonzalez Arango
+-Kevin Leandro Moscoso Morales
+-Juan David Gutierrez Rodriguez
+
+
