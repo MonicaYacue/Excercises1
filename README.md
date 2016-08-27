@@ -2,7 +2,7 @@
 Grupo 1:
 -Carlos joan Rodriguez Rodriguez
 -Saul Pardo
--
+-edier lugo
 
 grupo 2:
 -jhonatan david perez aguirre
