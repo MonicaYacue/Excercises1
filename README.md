@@ -1,23 +1,23 @@
 # Excercises1
 Grupo 1:
--Carlos joan Rodriguez Rodriguez
--Saul Pardo
--edier lugo
+- Carlos Joan Rodriguez Rodriguez
+- Saul Pardo
+- Edier Lugo
 
 grupo 2:
--jhonatan david perez aguirre
--angie katherin vergara
--gisseth daniela tapasco
+- jhonatan david perez aguirre
+- angie katherin vergara
+- gisseth daniela tapasco
 
 Grupo 3:
--Yeison Camilo Giraldo Garcia
--Bleimer David Julio Herrera
--Bryan Alexis Escobar Gomez
+- Yeison Camilo Giraldo Garcia
+- Bleimer David Julio Herrera
+- Bryan Alexis Escobar Gomez
 
 Grupo 4:
--Jarit Lizeth Rivera Vargas
--Wilmar Oswaldo Rodriguez Diaz
--yuleidy rodriguez
+- Jarit Lizeth Rivera Vargas
+- Wilmar Oswaldo Rodriguez Diaz
+- yuleidy rodriguez
 
 grupo 5:
 -Bladimir Laguna Montaña
