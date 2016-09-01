@@ -27,5 +27,8 @@ Grupo 6:
 -Kevin Leandro Moscoso Morales
 -Juan David Gutiérrez Rodríguez
 
+grupo 7:
+yudy constanza pacavita rincon
+
 https://docs.google.com/document/d/1x3LJBN5wr817cuypXK_wwRxRHYeW_YB6pmmJ4U84jlY/edit?usp=sharing
 
