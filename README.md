@@ -13,6 +13,7 @@ Grupo 3:
 - Yeison Camilo Giraldo Garcia
 - Bleimer David Julio Herrera
 - Bryan Alexis Escobar Gomez
+- https://docs.google.com/document/d/134QTFFUyWRbJa0tIwMc_FpgUOQVRtvpdOHrlYcq_WQs/edit?usp=sharing
 
 Grupo 4:
 - Jarit Lizeth Rivera Vargas
