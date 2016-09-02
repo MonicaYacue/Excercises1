@@ -3,7 +3,7 @@ Grupo 1:
 - Carlos Joan Rodriguez Rodriguez
 - Saul Pardo
 - Edier Lugo
-
+https://docs.google.com/document/d/1xRlj5O1PlLTivmTEot7H8_6l-ZrSwcWul69Ud5q6beU/edit?usp=sharing
 grupo 2:
 - jhonatan david perez aguirre
 - angie katherin vergara
